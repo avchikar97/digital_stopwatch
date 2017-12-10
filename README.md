@@ -15,6 +15,7 @@ Initial value set = Switches {W13, W14, V15, W15}, {W17, W16, V16, V17}
 # Use instructions
 
 There are 4 different modes slsected by using the corresponding binary number
+
 0) Count up from 00.00 to 99.99
 1) Count up from a preloaded second value to 99.99
 2) Count down from 99.99 to 00.00
