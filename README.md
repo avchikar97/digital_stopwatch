@@ -1,8 +1,8 @@
-**Equipment**
+# Equipment#
 
 Written for: Bays 3 Artix-7 FPGA board
 
-**Specifications**
+# Specifications#
 
 Reset = left button
 
@@ -12,7 +12,7 @@ Mode select = Switches {R2, T1}
 
 Initial value set = Switches {W13, W14, V15, W15}, {W17, W16, V16, V17}
 
-**Use instructions**
+# Use instructions#
 
 There are 4 different modes slsected by using the corresponding binary number
 0) Count up from 00.00 to 99.99
